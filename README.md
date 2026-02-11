@@ -260,7 +260,7 @@ report = manager.generate_report()
 print(report)
 ```
 
-## Автор
+## Авторы
 
 Сысоев Тимофей, Затонский Егор Олегович
 
